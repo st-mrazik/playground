@@ -1,8 +1,6 @@
 ## Requirements to run this script
-```
 [python](https://www.python.org/)
 [virtualenv](https://virtualenv.pypa.io/en/latest/)
-```
 ## How to run
 ```bash
 source translator/.env/bin/activate
